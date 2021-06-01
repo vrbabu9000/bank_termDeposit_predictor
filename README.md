@@ -1,0 +1,2 @@
+# bank_termDeposit_predictor
+Given a highly biased banking dataset of 45k entries and 17 variables wherein I was able to filter out good predictors for modelling and further balance the bias in the dataset using SMOTETomek method. The bias removal was approached in two different ways and the pros and cons of both methods are stated. The end result is a logistic regression model with 81% accuracy and striking a sharp balance between precision and recall with the former having a slight upper hand. 
